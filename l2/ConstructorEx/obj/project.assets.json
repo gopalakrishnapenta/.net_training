@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gopala Krishna\\OneDrive\\Desktop\\dotnet\\l2\\ConstructorEx\\ConstructorEx.csproj",
+      "projectUniqueName": "C:\\Users\\Gopala Krishna\\OneDrive\\Desktop\\Capgemini\\l2\\ConstructorEx\\ConstructorEx.csproj",
       "projectName": "ConstructorEx",
-      "projectPath": "C:\\Users\\Gopala Krishna\\OneDrive\\Desktop\\dotnet\\l2\\ConstructorEx\\ConstructorEx.csproj",
+      "projectPath": "C:\\Users\\Gopala Krishna\\OneDrive\\Desktop\\Capgemini\\l2\\ConstructorEx\\ConstructorEx.csproj",
       "packagesPath": "C:\\Users\\Gopala Krishna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gopala Krishna\\OneDrive\\Desktop\\dotnet\\l2\\ConstructorEx\\obj\\",
+      "outputPath": "C:\\Users\\Gopala Krishna\\OneDrive\\Desktop\\Capgemini\\l2\\ConstructorEx\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gopala Krishna\\AppData\\Roaming\\NuGet\\NuGet.Config",

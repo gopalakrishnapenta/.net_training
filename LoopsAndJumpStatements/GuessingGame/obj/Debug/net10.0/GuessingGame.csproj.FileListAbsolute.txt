@@ -1,0 +1,15 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GuessingGame\bin\Debug\net10.0\GuessingGame.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GuessingGame\bin\Debug\net10.0\GuessingGame.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GuessingGame\bin\Debug\net10.0\GuessingGame.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GuessingGame\bin\Debug\net10.0\GuessingGame.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GuessingGame\bin\Debug\net10.0\GuessingGame.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GuessingGame\obj\Debug\net10.0\GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GuessingGame\obj\Debug\net10.0\GuessingGame.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GuessingGame\obj\Debug\net10.0\GuessingGame.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GuessingGame\obj\Debug\net10.0\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GuessingGame\obj\Debug\net10.0\GuessingGame.sourcelink.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GuessingGame\obj\Debug\net10.0\GuessingGame.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GuessingGame\obj\Debug\net10.0\refint\GuessingGame.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GuessingGame\obj\Debug\net10.0\GuessingGame.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GuessingGame\obj\Debug\net10.0\GuessingGame.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GuessingGame\obj\Debug\net10.0\ref\GuessingGame.dll

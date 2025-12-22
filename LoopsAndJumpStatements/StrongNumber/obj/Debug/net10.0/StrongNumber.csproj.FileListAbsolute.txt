@@ -1,0 +1,15 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\StrongNumber\bin\Debug\net10.0\StrongNumber.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\StrongNumber\bin\Debug\net10.0\StrongNumber.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\StrongNumber\bin\Debug\net10.0\StrongNumber.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\StrongNumber\bin\Debug\net10.0\StrongNumber.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\StrongNumber\bin\Debug\net10.0\StrongNumber.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\StrongNumber\obj\Debug\net10.0\StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\StrongNumber\obj\Debug\net10.0\StrongNumber.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\StrongNumber\obj\Debug\net10.0\StrongNumber.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\StrongNumber\obj\Debug\net10.0\StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\StrongNumber\obj\Debug\net10.0\StrongNumber.sourcelink.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\StrongNumber\obj\Debug\net10.0\StrongNumber.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\StrongNumber\obj\Debug\net10.0\refint\StrongNumber.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\StrongNumber\obj\Debug\net10.0\StrongNumber.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\StrongNumber\obj\Debug\net10.0\StrongNumber.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\StrongNumber\obj\Debug\net10.0\ref\StrongNumber.dll

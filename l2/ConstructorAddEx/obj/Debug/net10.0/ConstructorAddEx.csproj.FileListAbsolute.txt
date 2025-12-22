@@ -1,0 +1,15 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\ConstructorAddEx\bin\Debug\net10.0\ConstructorAddEx.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\ConstructorAddEx\bin\Debug\net10.0\ConstructorAddEx.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\ConstructorAddEx\bin\Debug\net10.0\ConstructorAddEx.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\ConstructorAddEx\bin\Debug\net10.0\ConstructorAddEx.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\ConstructorAddEx\bin\Debug\net10.0\ConstructorAddEx.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\ConstructorAddEx\obj\Debug\net10.0\ConstructorAddEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\ConstructorAddEx\obj\Debug\net10.0\ConstructorAddEx.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\ConstructorAddEx\obj\Debug\net10.0\ConstructorAddEx.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\ConstructorAddEx\obj\Debug\net10.0\ConstructorAddEx.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\ConstructorAddEx\obj\Debug\net10.0\ConstructorAddEx.sourcelink.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\ConstructorAddEx\obj\Debug\net10.0\ConstructorAddEx.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\ConstructorAddEx\obj\Debug\net10.0\refint\ConstructorAddEx.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\ConstructorAddEx\obj\Debug\net10.0\ConstructorAddEx.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\ConstructorAddEx\obj\Debug\net10.0\ConstructorAddEx.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\ConstructorAddEx\obj\Debug\net10.0\ref\ConstructorAddEx.dll

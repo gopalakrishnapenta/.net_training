@@ -1,0 +1,15 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GCDandLCM\bin\Debug\net10.0\GCDandLCM.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GCDandLCM\bin\Debug\net10.0\GCDandLCM.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GCDandLCM\bin\Debug\net10.0\GCDandLCM.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GCDandLCM\bin\Debug\net10.0\GCDandLCM.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GCDandLCM\bin\Debug\net10.0\GCDandLCM.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GCDandLCM\obj\Debug\net10.0\GCDandLCM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GCDandLCM\obj\Debug\net10.0\GCDandLCM.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GCDandLCM\obj\Debug\net10.0\GCDandLCM.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GCDandLCM\obj\Debug\net10.0\GCDandLCM.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GCDandLCM\obj\Debug\net10.0\GCDandLCM.sourcelink.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GCDandLCM\obj\Debug\net10.0\GCDandLCM.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GCDandLCM\obj\Debug\net10.0\refint\GCDandLCM.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GCDandLCM\obj\Debug\net10.0\GCDandLCM.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GCDandLCM\obj\Debug\net10.0\GCDandLCM.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\GCDandLCM\obj\Debug\net10.0\ref\GCDandLCM.dll

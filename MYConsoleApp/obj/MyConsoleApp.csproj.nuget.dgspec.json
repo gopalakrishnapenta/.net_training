@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gopala Krishna\\OneDrive\\Desktop\\dotnet\\MYConsoleApp\\MyConsoleApp.csproj": {}
+    "C:\\Users\\Gopala Krishna\\OneDrive\\Desktop\\Capgemini\\MYConsoleApp\\MyConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gopala Krishna\\OneDrive\\Desktop\\dotnet\\MYConsoleApp\\MyConsoleApp.csproj": {
+    "C:\\Users\\Gopala Krishna\\OneDrive\\Desktop\\Capgemini\\MYConsoleApp\\MyConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gopala Krishna\\OneDrive\\Desktop\\dotnet\\MYConsoleApp\\MyConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Gopala Krishna\\OneDrive\\Desktop\\Capgemini\\MYConsoleApp\\MyConsoleApp.csproj",
         "projectName": "MyConsoleApp",
-        "projectPath": "C:\\Users\\Gopala Krishna\\OneDrive\\Desktop\\dotnet\\MYConsoleApp\\MyConsoleApp.csproj",
+        "projectPath": "C:\\Users\\Gopala Krishna\\OneDrive\\Desktop\\Capgemini\\MYConsoleApp\\MyConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Gopala Krishna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gopala Krishna\\OneDrive\\Desktop\\dotnet\\MYConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\Gopala Krishna\\OneDrive\\Desktop\\Capgemini\\MYConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gopala Krishna\\AppData\\Roaming\\NuGet\\NuGet.Config",

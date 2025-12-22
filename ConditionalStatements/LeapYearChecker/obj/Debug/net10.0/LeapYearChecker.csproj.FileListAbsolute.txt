@@ -1,0 +1,14 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LeapYearChecker\bin\Debug\net10.0\LeapYearChecker.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LeapYearChecker\bin\Debug\net10.0\LeapYearChecker.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LeapYearChecker\bin\Debug\net10.0\LeapYearChecker.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LeapYearChecker\bin\Debug\net10.0\LeapYearChecker.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LeapYearChecker\bin\Debug\net10.0\LeapYearChecker.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LeapYearChecker\obj\Debug\net10.0\LeapYearChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LeapYearChecker\obj\Debug\net10.0\LeapYearChecker.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LeapYearChecker\obj\Debug\net10.0\LeapYearChecker.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LeapYearChecker\obj\Debug\net10.0\LeapYearChecker.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LeapYearChecker\obj\Debug\net10.0\LeapYearChecker.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LeapYearChecker\obj\Debug\net10.0\refint\LeapYearChecker.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LeapYearChecker\obj\Debug\net10.0\LeapYearChecker.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LeapYearChecker\obj\Debug\net10.0\LeapYearChecker.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LeapYearChecker\obj\Debug\net10.0\ref\LeapYearChecker.dll

@@ -1,0 +1,14 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogram\bin\Debug\net10.0\personprogram.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogram\bin\Debug\net10.0\personprogram.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogram\bin\Debug\net10.0\personprogram.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogram\bin\Debug\net10.0\personprogram.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogram\bin\Debug\net10.0\personprogram.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogram\obj\Debug\net10.0\personprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogram\obj\Debug\net10.0\personprogram.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogram\obj\Debug\net10.0\personprogram.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogram\obj\Debug\net10.0\personprogram.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogram\obj\Debug\net10.0\personprogram.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogram\obj\Debug\net10.0\refint\personprogram.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogram\obj\Debug\net10.0\personprogram.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogram\obj\Debug\net10.0\personprogram.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogram\obj\Debug\net10.0\ref\personprogram.dll

@@ -1,0 +1,14 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\ConstructorEx\bin\Debug\net10.0\ConstructorEx.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\ConstructorEx\bin\Debug\net10.0\ConstructorEx.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\ConstructorEx\bin\Debug\net10.0\ConstructorEx.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\ConstructorEx\bin\Debug\net10.0\ConstructorEx.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\ConstructorEx\bin\Debug\net10.0\ConstructorEx.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\ConstructorEx\obj\Debug\net10.0\ConstructorEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\ConstructorEx\obj\Debug\net10.0\ConstructorEx.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\ConstructorEx\obj\Debug\net10.0\ConstructorEx.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\ConstructorEx\obj\Debug\net10.0\ConstructorEx.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\ConstructorEx\obj\Debug\net10.0\ConstructorEx.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\ConstructorEx\obj\Debug\net10.0\refint\ConstructorEx.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\ConstructorEx\obj\Debug\net10.0\ConstructorEx.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\ConstructorEx\obj\Debug\net10.0\ConstructorEx.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\ConstructorEx\obj\Debug\net10.0\ref\ConstructorEx.dll

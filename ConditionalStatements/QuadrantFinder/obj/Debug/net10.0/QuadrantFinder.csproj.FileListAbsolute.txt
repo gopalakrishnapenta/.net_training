@@ -1,0 +1,14 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\QuadrantFinder\bin\Debug\net10.0\QuadrantFinder.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\QuadrantFinder\bin\Debug\net10.0\QuadrantFinder.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\QuadrantFinder\bin\Debug\net10.0\QuadrantFinder.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\QuadrantFinder\bin\Debug\net10.0\QuadrantFinder.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\QuadrantFinder\bin\Debug\net10.0\QuadrantFinder.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\QuadrantFinder\obj\Debug\net10.0\QuadrantFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\QuadrantFinder\obj\Debug\net10.0\QuadrantFinder.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\QuadrantFinder\obj\Debug\net10.0\QuadrantFinder.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\QuadrantFinder\obj\Debug\net10.0\QuadrantFinder.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\QuadrantFinder\obj\Debug\net10.0\QuadrantFinder.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\QuadrantFinder\obj\Debug\net10.0\refint\QuadrantFinder.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\QuadrantFinder\obj\Debug\net10.0\QuadrantFinder.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\QuadrantFinder\obj\Debug\net10.0\QuadrantFinder.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\QuadrantFinder\obj\Debug\net10.0\ref\QuadrantFinder.dll

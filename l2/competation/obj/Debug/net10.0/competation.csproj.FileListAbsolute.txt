@@ -1,0 +1,14 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\competation\bin\Debug\net10.0\competation.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\competation\bin\Debug\net10.0\competation.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\competation\bin\Debug\net10.0\competation.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\competation\bin\Debug\net10.0\competation.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\competation\bin\Debug\net10.0\competation.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\competation\obj\Debug\net10.0\competation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\competation\obj\Debug\net10.0\competation.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\competation\obj\Debug\net10.0\competation.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\competation\obj\Debug\net10.0\competation.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\competation\obj\Debug\net10.0\competation.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\competation\obj\Debug\net10.0\refint\competation.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\competation\obj\Debug\net10.0\competation.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\competation\obj\Debug\net10.0\competation.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\competation\obj\Debug\net10.0\ref\competation.dll

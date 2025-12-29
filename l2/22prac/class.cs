@@ -3,21 +3,22 @@ namespace OopsSession
 {
     public class Associate
     {
-        public int Id{get ; set;}
-        public string Name{get ; set;}
+        private int Id{get ; set;}
+        private string Name{get ; set;}
 
-        public Associate(int id, string name)
+        public string Error{get ; set;}
+
+        public int ID
         {
-            if(id <= 0)
+            get { return Id; }
+            set 
             {
-                throw new InvalidDataException("Id must be greater than zero");
+                if(value <= 0)
+                {
+                    Error += "Id should be greater than zero. ";
+                }
+                Id = value; 
             }
-            if(name == string.Empty || name == null)
-            {
-                throw new InvalidDataException("Name cannot be null");
-            }
-            this.Id = id;
-            this.Name = name;
         }
     }
 }

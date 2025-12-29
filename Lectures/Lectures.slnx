@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Indexer/Indexer.csproj" Id="816d3fc0-4fae-4f66-9a03-caa89a0adf4c" />
+  <Project Path="../IndexerEx/IndexerEx.csproj" Id="62559147-f688-4994-8f13-9a977d96f9ab" />
+  <Project Path="../InterfaceLect1/InterfaceLect1.csproj" />
+  <Project Path="Lectures.csproj" />
+</Solution>

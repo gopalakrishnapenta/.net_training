@@ -1,56 +1,42 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
 
-namespace CAP2025.Day_15
+namespace Day18LINQ
 {
-    public class LinqExample
+    public class StudentMark
     {
-        public LinqExample(string name)
-        {
-            string[] names = { "A", "B", "C", "D" };
-            var findname = from item in names where item == name select item;
-            if (findname != null)
-            {
-                Console.WriteLine($"Found name {name}");
-            }
-        }
-        public void LinqEx(string name)
-        {
-            string[] names = { "Aman", "Ananth", "Indra", "Viswa", "Vardhan", "Gopi" };
-            var findname = from item in names orderby item ascending select IsPalindrome(item);
-            foreach(var items in names)
-            {
-                Console.WriteLine(items);
-            }
-        }
-        public static bool IsPalindrome(string str)
-        {
-            int min = 0;
-            int max = str.Length - 1;
-            while (true)
-            {
-                if (min > max)
-                {
-                    return true;
-                }
-                char a = str[min];
-                char b = str[max];
-                if (char.ToLower(a) != char.ToLower(b))
-                {
-                    return false;
-                }
-                min++;
-                max--;
-            }
-        }
+        public string? Subject { get; set; }
+        public int Marks { get; set; }
     }
-    public class LinqMain
-    {
-        public static void Main(string[] args)
-        {
-            LinqExample linq = new LinqExample("C");
 
+    public class Day18LINQ
+    {
+        public static void Run(string[] args)
+        {
+            List<StudentMark> marks = new List<StudentMark>
+            {
+                new StudentMark { Subject = "Maths", Marks = 85 },
+                new StudentMark { Subject = "Physics", Marks = 72 },
+                new StudentMark { Subject = "Chemistry", Marks = 45 },
+                new StudentMark { Subject = "English", Marks = 90 },
+                new StudentMark { Subject = "Computer", Marks = 60 }
+            };
+
+            // Highest Marks (LINQ Query Syntax)
+            var highest =
+                (from m in marks
+                 orderby m.Marks descending
+                 select m).First();
+
+            Console.WriteLine($"Highest Marks: {highest.Subject} - {highest.Marks}");
+
+            // Average Marks (LINQ Query Syntax)
+            var average =
+                (from m in marks
+                 select m.Marks).Average();
+
+            Console.WriteLine($"Average Marks: {average}");
         }
     }
 }

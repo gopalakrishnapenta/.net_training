@@ -21,3 +21,40 @@ namespace EmployeeApp
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+public static class StringExtensions
+{
+    public static bool IsLong(this string str)
+    {
+        return str.Length > 5;
+    }
+}
+class Program
+{
+    static void Main()
+    {
+        string name = "Gopal";
+
+        bool result = name.IsLong();  // call
+        Console.WriteLine(result);
+    }
+}

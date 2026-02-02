@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace LibraryManagementSystem
 {
@@ -23,18 +22,34 @@ namespace LibraryManagementSystem
 
         public SortedDictionary<string, List<Book>> GroupBooksByGenre()
         {
-            return new SortedDictionary<string, List<Book>>(
-                books.Where(b => b.Genre != null)
-                     .GroupBy(b => b.Genre!)
-                     .ToDictionary(g => g.Key, g => g.ToList())
-            );
+            Dictionary<string, List<Book>> grouped = new Dictionary<string, List<Book>>();
+            
+            foreach (var book in books)
+            {
+                if (book.Genre != null)
+                {
+                    if (!grouped.ContainsKey(book.Genre))
+                    {
+                        grouped[book.Genre] = new List<Book>();
+                    }
+                    grouped[book.Genre].Add(book);
+                }
+            }
+            
+            return new SortedDictionary<string, List<Book>>(grouped);
         }
 
         public List<Book> GetBooksByAuthor(string author)
         {
-            return books
-                .Where(b => b.Author != null && b.Author.Equals(author, StringComparison.OrdinalIgnoreCase))
-                .ToList();
+            List<Book> result = new List<Book>();
+            foreach (var book in books)
+            {
+                if (book.Author != null && book.Author.Equals(author, StringComparison.OrdinalIgnoreCase))
+                {
+                    result.Add(book);
+                }
+            }
+            return result;
         }
 
         public int GetTotalBooksCount()

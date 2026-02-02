@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace EmployeeManagementSystem
 {
@@ -23,24 +22,44 @@ namespace EmployeeManagementSystem
 
         public SortedDictionary<string, List<Employee>> GroupEmployeesByDepartment()
         {
-            return new SortedDictionary<string, List<Employee>>(
-                employees.GroupBy(e => e.Department)
-                         .ToDictionary(g => g.Key, g => g.ToList())
-            );
+            Dictionary<string, List<Employee>> grouped = new Dictionary<string, List<Employee>>();
+            
+            foreach (var employee in employees)
+            {
+                if (!grouped.ContainsKey(employee.Department))
+                {
+                    grouped[employee.Department] = new List<Employee>();
+                }
+                grouped[employee.Department].Add(employee);
+            }
+            
+            return new SortedDictionary<string, List<Employee>>(grouped);
         }
 
         public double CalculateDepartmentSalary(string department)
         {
-            return employees
-                .Where(e => e.Department.Equals(department, StringComparison.OrdinalIgnoreCase))
-                .Sum(e => e.Salary);
+            double totalSalary = 0;
+            foreach (var employee in employees)
+            {
+                if (employee.Department.Equals(department, StringComparison.OrdinalIgnoreCase))
+                {
+                    totalSalary += employee.Salary;
+                }
+            }
+            return totalSalary;
         }
 
         public List<Employee> GetEmployeesJoinedAfter(DateTime date)
         {
-            return employees
-                .Where(e => e.JoiningDate > date)
-                .ToList();
+            List<Employee> result = new List<Employee>();
+            foreach (var employee in employees)
+            {
+                if (employee.JoiningDate > date)
+                {
+                    result.Add(employee);
+                }
+            }
+            return result;
         }
     }
 }

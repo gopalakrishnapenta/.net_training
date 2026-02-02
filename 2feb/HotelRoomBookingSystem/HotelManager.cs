@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace HotelRoomBookingSystem
 {
@@ -10,7 +9,17 @@ namespace HotelRoomBookingSystem
 
         public void AddRoom(int roomNumber, string type, double price)
         {
-            if (rooms.Any(r => r.RoomNumber == roomNumber))
+            bool exists = false;
+            foreach (var r in rooms)
+            {
+                if (r.RoomNumber == roomNumber)
+                {
+                    exists = true;
+                    break;
+                }
+            }
+            
+            if (exists)
                 return;
 
             rooms.Add(new Room
@@ -24,15 +33,35 @@ namespace HotelRoomBookingSystem
 
         public Dictionary<string, List<Room>> GroupRoomsByType()
         {
-            return rooms
-                .Where(r => r.IsAvailable)
-                .GroupBy(r => r.RoomType)
-                .ToDictionary(g => g.Key, g => g.ToList());
+            Dictionary<string, List<Room>> grouped = new Dictionary<string, List<Room>>();
+            
+            foreach (var room in rooms)
+            {
+                if (room.IsAvailable)
+                {
+                    if (!grouped.ContainsKey(room.RoomType))
+                    {
+                        grouped[room.RoomType] = new List<Room>();
+                    }
+                    grouped[room.RoomType].Add(room);
+                }
+            }
+            
+            return grouped;
         }
 
         public bool BookRoom(int roomNumber, int nights)
         {
-            var room = rooms.FirstOrDefault(r => r.RoomNumber == roomNumber && r.IsAvailable);
+            Room room = null;
+            foreach (var r in rooms)
+            {
+                if (r.RoomNumber == roomNumber && r.IsAvailable)
+                {
+                    room = r;
+                    break;
+                }
+            }
+            
             if (room == null)
                 return false;
 
@@ -47,9 +76,15 @@ namespace HotelRoomBookingSystem
 
         public List<Room> GetAvailableRoomsByPriceRange(double min, double max)
         {
-            return rooms
-                .Where(r => r.IsAvailable && r.PricePerNight >= min && r.PricePerNight <= max)
-                .ToList();
+            List<Room> result = new List<Room>();
+            foreach (var room in rooms)
+            {
+                if (room.IsAvailable && room.PricePerNight >= min && room.PricePerNight <= max)
+                {
+                    result.Add(room);
+                }
+            }
+            return result;
         }
     }
 }

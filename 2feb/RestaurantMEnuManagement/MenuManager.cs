@@ -1,13 +1,14 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace RestaurantMenu
 {
     public class MenuManager
     {
+        // List to store menu items
         private List<MenuItem> menuItems;
 
+        // Constructor to initialize the menu items list
         public MenuManager()
         {
             menuItems = new List<MenuItem>();
@@ -28,25 +29,56 @@ namespace RestaurantMenu
         // Groups menu items by category
         public Dictionary<string, List<MenuItem>> GroupItemsByCategory()
         {
-            return menuItems
-                .GroupBy(item => item.Category)
-                .ToDictionary(g => g.Key, g => g.ToList());
+            Dictionary<string, List<MenuItem>> grouped = new Dictionary<string, List<MenuItem>>();
+            
+            foreach (var item in menuItems)
+            {
+                if (!grouped.ContainsKey(item.Category))
+                {
+                    grouped[item.Category] = new List<MenuItem>();
+                }
+                grouped[item.Category].Add(item);
+            }
+            
+            return grouped;
         }
 
         // Returns all vegetarian items
         public List<MenuItem> GetVegetarianItems()
         {
-            return menuItems.Where(item => item.IsVegetarian).ToList();
+            List<MenuItem> result = new List<MenuItem>();
+            foreach (var item in menuItems)
+            {
+                if (item.IsVegetarian)
+                {
+                    result.Add(item);
+                }
+            }
+            return result;
         }
 
         // Calculates average price for a given category
         public double CalculateAveragePriceByCategory(string category)
         {
-            var itemsInCategory = menuItems.Where(item => item.Category == category).ToList();
+            List<MenuItem> itemsInCategory = new List<MenuItem>();
+            foreach (var item in menuItems)
+            {
+                if (item.Category == category)
+                {
+                    itemsInCategory.Add(item);
+                }
+            }
+            
             if (itemsInCategory.Count == 0)
                 return 0;
 
-            return itemsInCategory.Average(item => item.Price);
+            double totalPrice = 0;
+            foreach (var item in itemsInCategory)
+            {
+                totalPrice += item.Price;
+            }
+            
+            return totalPrice / itemsInCategory.Count;
         }
     }
 }

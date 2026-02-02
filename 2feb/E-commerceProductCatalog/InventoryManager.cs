@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace ECommerceCatalog
 {
@@ -26,9 +25,16 @@ namespace ECommerceCatalog
         // Groups products by category (sorted dictionary)
         public SortedDictionary<string, List<Product>> GroupProductsByCategory()
         {
-            var grouped = products
-                .GroupBy(p => p.Category)
-                .ToDictionary(g => g.Key, g => g.ToList());
+            Dictionary<string, List<Product>> grouped = new Dictionary<string, List<Product>>();
+            
+            foreach (var product in products)
+            {
+                if (!grouped.ContainsKey(product.Category))
+                {
+                    grouped[product.Category] = new List<Product>();
+                }
+                grouped[product.Category].Add(product);
+            }
 
             return new SortedDictionary<string, List<Product>>(grouped);
         }
@@ -36,7 +42,16 @@ namespace ECommerceCatalog
         // Updates stock, returns false if insufficient stock
         public bool UpdateStock(string productCode, int quantity)
         {
-            var product = products.FirstOrDefault(p => p.ProductCode == productCode);
+            Product product = null;
+            foreach (var p in products)
+            {
+                if (p.ProductCode == productCode)
+                {
+                    product = p;
+                    break;
+                }
+            }
+            
             if (product == null) return false;
             if (quantity > product.StockQuantity) return false;
 
@@ -47,15 +62,32 @@ namespace ECommerceCatalog
         // Returns products below a certain price
         public List<Product> GetProductsBelowPrice(double maxPrice)
         {
-            return products.Where(p => p.Price <= maxPrice).ToList();
+            List<Product> result = new List<Product>();
+            foreach (var product in products)
+            {
+                if (product.Price <= maxPrice)
+                {
+                    result.Add(product);
+                }
+            }
+            return result;
         }
 
         // Returns total stock quantity per category
         public Dictionary<string, int> GetCategoryStockSummary()
         {
-            return products
-                .GroupBy(p => p.Category)
-                .ToDictionary(g => g.Key, g => g.Sum(p => p.StockQuantity));
+            Dictionary<string, int> summary = new Dictionary<string, int>();
+            
+            foreach (var product in products)
+            {
+                if (!summary.ContainsKey(product.Category))
+                {
+                    summary[product.Category] = 0;
+                }
+                summary[product.Category] += product.StockQuantity;
+            }
+            
+            return summary;
         }
     }
 }

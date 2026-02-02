@@ -47,9 +47,10 @@ namespace MovieTheaterSystem
         // Group screenings by movie title
         public Dictionary<string, List<MovieScreening>> GroupScreeningsByMovie()
         {
+            // Create grouped dictionary
             Dictionary<string, List<MovieScreening>> result =
                 new Dictionary<string, List<MovieScreening>>();
-
+            // Populate grouped dictionary
             foreach (MovieScreening screening in screenings)
             {
                 if (!result.ContainsKey(screening.MovieTitle))
@@ -98,4 +99,3 @@ namespace MovieTheaterSystem
         }
     }
 }
-    

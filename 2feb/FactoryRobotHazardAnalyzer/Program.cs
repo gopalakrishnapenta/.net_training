@@ -7,8 +7,6 @@ public class RobotSafetyException : Exception
     {
     }
 }
-
-
 // Robot hazard auditor class
 public class RobotHazardAuditor
 {

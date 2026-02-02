@@ -88,11 +88,9 @@ public class Program
         }
         catch (RobotSafetyException ex)
         {
-            // Display error
+            // Display error.
             Console.WriteLine(ex.Message);
         }
     }
 }
-        }
-    }
-}
+

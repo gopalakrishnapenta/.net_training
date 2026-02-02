@@ -24,7 +24,8 @@ namespace LibraryManagementSystem
         public SortedDictionary<string, List<Book>> GroupBooksByGenre()
         {
             return new SortedDictionary<string, List<Book>>(
-                books.GroupBy(b => b.Genre)
+                books.Where(b => b.Genre != null)
+                     .GroupBy(b => b.Genre!)
                      .ToDictionary(g => g.Key, g => g.ToList())
             );
         }
@@ -32,7 +33,7 @@ namespace LibraryManagementSystem
         public List<Book> GetBooksByAuthor(string author)
         {
             return books
-                .Where(b => b.Author.Equals(author, StringComparison.OrdinalIgnoreCase))
+                .Where(b => b.Author != null && b.Author.Equals(author, StringComparison.OrdinalIgnoreCase))
                 .ToList();
         }
 

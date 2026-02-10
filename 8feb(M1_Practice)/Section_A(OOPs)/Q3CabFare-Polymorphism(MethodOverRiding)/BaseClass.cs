@@ -2,7 +2,7 @@ using System;
 
 public class Cab
 {
-    public virtual double CalculateFare(int km)
+    public virtual double CalculateFare(double km)
     {
         return 0;
     }

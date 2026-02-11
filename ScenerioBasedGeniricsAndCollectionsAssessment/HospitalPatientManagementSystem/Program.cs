@@ -5,8 +5,10 @@ using HospitalPatientManagementSystem.Helpers;
 
 class Program
 {
+    
     static void Main()
     {
+        
         var queue = new PriorityQueue<IPatient>();
 
         var child1 = new PediatricPatient

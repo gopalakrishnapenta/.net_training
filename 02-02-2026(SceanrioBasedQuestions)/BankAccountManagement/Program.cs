@@ -6,8 +6,7 @@ namespace BankAccountManagement
 {
     // Transaction class
     class Transaction
-    {
-        public string TransactionId { get; set; }
+    {   public string TransactionId { get; set; }
         public DateTime TransactionDate { get; set; }
         public string Type { get; set; } // Deposit / Withdrawal / Transfer
         public double Amount { get; set; }

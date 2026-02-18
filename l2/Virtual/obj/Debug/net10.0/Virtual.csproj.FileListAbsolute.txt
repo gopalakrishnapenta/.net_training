@@ -1,0 +1,15 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\Virtual\bin\Debug\net10.0\Virtual.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\Virtual\bin\Debug\net10.0\Virtual.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\Virtual\bin\Debug\net10.0\Virtual.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\Virtual\bin\Debug\net10.0\Virtual.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\Virtual\bin\Debug\net10.0\Virtual.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\Virtual\obj\Debug\net10.0\Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\Virtual\obj\Debug\net10.0\Virtual.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\Virtual\obj\Debug\net10.0\Virtual.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\Virtual\obj\Debug\net10.0\Virtual.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\Virtual\obj\Debug\net10.0\Virtual.sourcelink.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\Virtual\obj\Debug\net10.0\Virtual.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\Virtual\obj\Debug\net10.0\refint\Virtual.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\Virtual\obj\Debug\net10.0\Virtual.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\Virtual\obj\Debug\net10.0\Virtual.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\l2\Virtual\obj\Debug\net10.0\ref\Virtual.dll

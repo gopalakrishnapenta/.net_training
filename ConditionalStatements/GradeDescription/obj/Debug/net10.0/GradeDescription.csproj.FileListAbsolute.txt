@@ -1,0 +1,14 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\GradeDescription\bin\Debug\net10.0\GradeDescription.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\GradeDescription\bin\Debug\net10.0\GradeDescription.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\GradeDescription\bin\Debug\net10.0\GradeDescription.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\GradeDescription\bin\Debug\net10.0\GradeDescription.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\GradeDescription\bin\Debug\net10.0\GradeDescription.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\GradeDescription\obj\Debug\net10.0\GradeDescription.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\GradeDescription\obj\Debug\net10.0\GradeDescription.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\GradeDescription\obj\Debug\net10.0\GradeDescription.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\GradeDescription\obj\Debug\net10.0\GradeDescription.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\GradeDescription\obj\Debug\net10.0\GradeDescription.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\GradeDescription\obj\Debug\net10.0\refint\GradeDescription.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\GradeDescription\obj\Debug\net10.0\GradeDescription.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\GradeDescription\obj\Debug\net10.0\GradeDescription.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\GradeDescription\obj\Debug\net10.0\ref\GradeDescription.dll

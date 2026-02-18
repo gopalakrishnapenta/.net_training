@@ -1,0 +1,14 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\EmplyeeSystem\bin\Debug\net10.0\EmplyeeSystem.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\EmplyeeSystem\bin\Debug\net10.0\EmplyeeSystem.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\EmplyeeSystem\bin\Debug\net10.0\EmplyeeSystem.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\EmplyeeSystem\bin\Debug\net10.0\EmplyeeSystem.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\EmplyeeSystem\bin\Debug\net10.0\EmplyeeSystem.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\EmplyeeSystem\obj\Debug\net10.0\EmplyeeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\EmplyeeSystem\obj\Debug\net10.0\EmplyeeSystem.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\EmplyeeSystem\obj\Debug\net10.0\EmplyeeSystem.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\EmplyeeSystem\obj\Debug\net10.0\EmplyeeSystem.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\EmplyeeSystem\obj\Debug\net10.0\EmplyeeSystem.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\EmplyeeSystem\obj\Debug\net10.0\refint\EmplyeeSystem.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\EmplyeeSystem\obj\Debug\net10.0\EmplyeeSystem.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\EmplyeeSystem\obj\Debug\net10.0\EmplyeeSystem.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\EmplyeeSystem\obj\Debug\net10.0\ref\EmplyeeSystem.dll

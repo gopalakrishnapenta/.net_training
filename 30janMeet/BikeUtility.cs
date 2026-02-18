@@ -1,0 +1,41 @@
+using System;
+using System.Collections.Generic;
+
+namespace BikeRentalApp
+{
+    public class BikeUtility
+    {
+        // Method 1
+        public void AddBikeDetails(string model, string brand, int pricePerDay)
+        {
+            int key = Program.bikeDetails.Count + 1;
+
+            Bike bike = new Bike();
+            bike.Model = model;
+            bike.Brand = brand;
+            bike.PricePerDay = pricePerDay;
+
+            Program.bikeDetails.Add(key, bike);
+            Console.WriteLine("Bike details added successfully");
+        }
+
+        // Method 2
+        public SortedDictionary<string, List<Bike>> GroupBikesByBrand()
+        {
+            SortedDictionary<string, List<Bike>> result =
+                new SortedDictionary<string, List<Bike>>();
+
+            foreach (Bike bike in Program.bikeDetails.Values)
+            {
+                if (!result.ContainsKey(bike.Brand))
+                {
+                    result.Add(bike.Brand, new List<Bike>());
+                }
+
+                result[bike.Brand].Add(bike);
+            }
+
+            return result;
+        }
+    }
+}

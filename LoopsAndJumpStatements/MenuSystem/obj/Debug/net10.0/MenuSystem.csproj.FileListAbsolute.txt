@@ -1,0 +1,15 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\MenuSystem\bin\Debug\net10.0\MenuSystem.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\MenuSystem\bin\Debug\net10.0\MenuSystem.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\MenuSystem\bin\Debug\net10.0\MenuSystem.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\MenuSystem\bin\Debug\net10.0\MenuSystem.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\MenuSystem\bin\Debug\net10.0\MenuSystem.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\MenuSystem\obj\Debug\net10.0\MenuSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\MenuSystem\obj\Debug\net10.0\MenuSystem.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\MenuSystem\obj\Debug\net10.0\MenuSystem.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\MenuSystem\obj\Debug\net10.0\MenuSystem.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\MenuSystem\obj\Debug\net10.0\MenuSystem.sourcelink.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\MenuSystem\obj\Debug\net10.0\MenuSystem.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\MenuSystem\obj\Debug\net10.0\refint\MenuSystem.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\MenuSystem\obj\Debug\net10.0\MenuSystem.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\MenuSystem\obj\Debug\net10.0\MenuSystem.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\MenuSystem\obj\Debug\net10.0\ref\MenuSystem.dll

@@ -1,0 +1,14 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\ATMWithdrawal\bin\Debug\net10.0\ATMWithdrawal.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\ATMWithdrawal\bin\Debug\net10.0\ATMWithdrawal.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\ATMWithdrawal\bin\Debug\net10.0\ATMWithdrawal.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\ATMWithdrawal\bin\Debug\net10.0\ATMWithdrawal.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\ATMWithdrawal\bin\Debug\net10.0\ATMWithdrawal.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\ATMWithdrawal\obj\Debug\net10.0\ATMWithdrawal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\ATMWithdrawal\obj\Debug\net10.0\ATMWithdrawal.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\ATMWithdrawal\obj\Debug\net10.0\ATMWithdrawal.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\ATMWithdrawal\obj\Debug\net10.0\ATMWithdrawal.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\ATMWithdrawal\obj\Debug\net10.0\ATMWithdrawal.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\ATMWithdrawal\obj\Debug\net10.0\refint\ATMWithdrawal.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\ATMWithdrawal\obj\Debug\net10.0\ATMWithdrawal.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\ATMWithdrawal\obj\Debug\net10.0\ATMWithdrawal.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Cap_Asg\ConditionalStatements\ATMWithdrawal\obj\Debug\net10.0\ref\ATMWithdrawal.dll

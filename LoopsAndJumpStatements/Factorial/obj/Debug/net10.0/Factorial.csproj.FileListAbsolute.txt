@@ -1,0 +1,15 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Factorial\bin\Debug\net10.0\Factorial.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Factorial\bin\Debug\net10.0\Factorial.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Factorial\bin\Debug\net10.0\Factorial.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Factorial\bin\Debug\net10.0\Factorial.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Factorial\bin\Debug\net10.0\Factorial.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Factorial\obj\Debug\net10.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Factorial\obj\Debug\net10.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Factorial\obj\Debug\net10.0\Factorial.sourcelink.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Factorial\obj\Debug\net10.0\Factorial.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Factorial\obj\Debug\net10.0\refint\Factorial.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Factorial\obj\Debug\net10.0\Factorial.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Factorial\obj\Debug\net10.0\Factorial.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Factorial\obj\Debug\net10.0\ref\Factorial.dll

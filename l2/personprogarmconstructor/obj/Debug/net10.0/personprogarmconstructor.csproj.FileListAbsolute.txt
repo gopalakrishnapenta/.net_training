@@ -1,0 +1,14 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogarmconstructor\bin\Debug\net10.0\personprogarmconstructor.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogarmconstructor\bin\Debug\net10.0\personprogarmconstructor.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogarmconstructor\bin\Debug\net10.0\personprogarmconstructor.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogarmconstructor\bin\Debug\net10.0\personprogarmconstructor.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogarmconstructor\bin\Debug\net10.0\personprogarmconstructor.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogarmconstructor\obj\Debug\net10.0\personprogarmconstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogarmconstructor\obj\Debug\net10.0\personprogarmconstructor.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogarmconstructor\obj\Debug\net10.0\personprogarmconstructor.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogarmconstructor\obj\Debug\net10.0\personprogarmconstructor.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogarmconstructor\obj\Debug\net10.0\personprogarmconstructor.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogarmconstructor\obj\Debug\net10.0\refint\personprogarmconstructor.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogarmconstructor\obj\Debug\net10.0\personprogarmconstructor.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogarmconstructor\obj\Debug\net10.0\personprogarmconstructor.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\dotnet\l2\personprogarmconstructor\obj\Debug\net10.0\ref\personprogarmconstructor.dll

@@ -1,0 +1,15 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Pascal’sTriangle\bin\Debug\net10.0\Pascal’sTriangle.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Pascal’sTriangle\bin\Debug\net10.0\Pascal’sTriangle.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Pascal’sTriangle\bin\Debug\net10.0\Pascal’sTriangle.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Pascal’sTriangle\bin\Debug\net10.0\Pascal’sTriangle.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Pascal’sTriangle\bin\Debug\net10.0\Pascal’sTriangle.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Pascal’sTriangle\obj\Debug\net10.0\Pascal’sTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Pascal’sTriangle\obj\Debug\net10.0\Pascal’sTriangle.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Pascal’sTriangle\obj\Debug\net10.0\Pascal’sTriangle.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Pascal’sTriangle\obj\Debug\net10.0\Pascal’sTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Pascal’sTriangle\obj\Debug\net10.0\Pascal’sTriangle.sourcelink.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Pascal’sTriangle\obj\Debug\net10.0\Pascal’sTriangle.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Pascal’sTriangle\obj\Debug\net10.0\refint\Pascal’sTriangle.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Pascal’sTriangle\obj\Debug\net10.0\Pascal’sTriangle.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Pascal’sTriangle\obj\Debug\net10.0\Pascal’sTriangle.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\Pascal’sTriangle\obj\Debug\net10.0\ref\Pascal’sTriangle.dll

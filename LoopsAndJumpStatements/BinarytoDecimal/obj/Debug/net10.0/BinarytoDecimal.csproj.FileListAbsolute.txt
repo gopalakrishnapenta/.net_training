@@ -1,0 +1,15 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\BinarytoDecimal\bin\Debug\net10.0\BinarytoDecimal.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\BinarytoDecimal\bin\Debug\net10.0\BinarytoDecimal.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\BinarytoDecimal\bin\Debug\net10.0\BinarytoDecimal.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\BinarytoDecimal\bin\Debug\net10.0\BinarytoDecimal.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\BinarytoDecimal\bin\Debug\net10.0\BinarytoDecimal.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\BinarytoDecimal\obj\Debug\net10.0\BinarytoDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\BinarytoDecimal\obj\Debug\net10.0\BinarytoDecimal.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\BinarytoDecimal\obj\Debug\net10.0\BinarytoDecimal.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\BinarytoDecimal\obj\Debug\net10.0\BinarytoDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\BinarytoDecimal\obj\Debug\net10.0\BinarytoDecimal.sourcelink.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\BinarytoDecimal\obj\Debug\net10.0\BinarytoDecimal.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\BinarytoDecimal\obj\Debug\net10.0\refint\BinarytoDecimal.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\BinarytoDecimal\obj\Debug\net10.0\BinarytoDecimal.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\BinarytoDecimal\obj\Debug\net10.0\BinarytoDecimal.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\BinarytoDecimal\obj\Debug\net10.0\ref\BinarytoDecimal.dll

@@ -1,0 +1,15 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\DiamondPattern\bin\Debug\net10.0\DiamondPattern.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\DiamondPattern\bin\Debug\net10.0\DiamondPattern.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\DiamondPattern\bin\Debug\net10.0\DiamondPattern.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\DiamondPattern\bin\Debug\net10.0\DiamondPattern.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\DiamondPattern\bin\Debug\net10.0\DiamondPattern.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\DiamondPattern\obj\Debug\net10.0\DiamondPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\DiamondPattern\obj\Debug\net10.0\DiamondPattern.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\DiamondPattern\obj\Debug\net10.0\DiamondPattern.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\DiamondPattern\obj\Debug\net10.0\DiamondPattern.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\DiamondPattern\obj\Debug\net10.0\DiamondPattern.sourcelink.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\DiamondPattern\obj\Debug\net10.0\DiamondPattern.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\DiamondPattern\obj\Debug\net10.0\refint\DiamondPattern.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\DiamondPattern\obj\Debug\net10.0\DiamondPattern.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\DiamondPattern\obj\Debug\net10.0\DiamondPattern.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Capgemini\LoopsAndJumpStatements\DiamondPattern\obj\Debug\net10.0\ref\DiamondPattern.dll

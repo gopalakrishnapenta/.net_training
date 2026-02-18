@@ -1,0 +1,14 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\AdmissionEligibilty\bin\Debug\net10.0\AdmissionEligibilty.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\AdmissionEligibilty\bin\Debug\net10.0\AdmissionEligibilty.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\AdmissionEligibilty\bin\Debug\net10.0\AdmissionEligibilty.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\AdmissionEligibilty\bin\Debug\net10.0\AdmissionEligibilty.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\AdmissionEligibilty\bin\Debug\net10.0\AdmissionEligibilty.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\AdmissionEligibilty\obj\Debug\net10.0\AdmissionEligibilty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\AdmissionEligibilty\obj\Debug\net10.0\AdmissionEligibilty.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\AdmissionEligibilty\obj\Debug\net10.0\AdmissionEligibilty.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\AdmissionEligibilty\obj\Debug\net10.0\AdmissionEligibilty.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\AdmissionEligibilty\obj\Debug\net10.0\AdmissionEligibilty.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\AdmissionEligibilty\obj\Debug\net10.0\refint\AdmissionEligibilty.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\AdmissionEligibilty\obj\Debug\net10.0\AdmissionEligibilty.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\AdmissionEligibilty\obj\Debug\net10.0\AdmissionEligibilty.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\AdmissionEligibilty\obj\Debug\net10.0\ref\AdmissionEligibilty.dll

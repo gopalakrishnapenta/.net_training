@@ -1,0 +1,14 @@
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LargestOfThree\bin\Debug\net10.0\LargestOfThree.exe
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LargestOfThree\bin\Debug\net10.0\LargestOfThree.deps.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LargestOfThree\bin\Debug\net10.0\LargestOfThree.runtimeconfig.json
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LargestOfThree\bin\Debug\net10.0\LargestOfThree.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LargestOfThree\bin\Debug\net10.0\LargestOfThree.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LargestOfThree\obj\Debug\net10.0\LargestOfThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LargestOfThree\obj\Debug\net10.0\LargestOfThree.AssemblyInfoInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LargestOfThree\obj\Debug\net10.0\LargestOfThree.AssemblyInfo.cs
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LargestOfThree\obj\Debug\net10.0\LargestOfThree.csproj.CoreCompileInputs.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LargestOfThree\obj\Debug\net10.0\LargestOfThree.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LargestOfThree\obj\Debug\net10.0\refint\LargestOfThree.dll
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LargestOfThree\obj\Debug\net10.0\LargestOfThree.pdb
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LargestOfThree\obj\Debug\net10.0\LargestOfThree.genruntimeconfig.cache
+C:\Users\Gopala Krishna\OneDrive\Desktop\Asg\lab1\LargestOfThree\obj\Debug\net10.0\ref\LargestOfThree.dll

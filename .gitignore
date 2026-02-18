@@ -4,6 +4,9 @@
 *.suo
 *.cache
 *.log
+*.csproj
+*.slnx
+
 
 # Build results
 bin/

@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="QuickBite.Application/QuickBite.Application.csproj" />
-  <Project Path="QuickBite.Domain/QuickBite.Domain.csproj" />
-  <Project Path="QuickBite.Tests/QuickBite.Tests.csproj" />
-</Solution>

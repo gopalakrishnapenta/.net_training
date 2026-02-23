@@ -5,7 +5,7 @@ using System.Linq;
 
 class AdapterCRUD
 {
-    string cs = "Data Source=GOPALAKRISHNA\\SQLEXPRESS;Initial Catalog = TrainingDB;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;";
+    static string connectionString = "Data Source=GOPALAKRISHNA\\SQLEXPRESS;Initial Catalog = TrainingDB;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;";
 
 
     public static void Main()
@@ -217,9 +217,7 @@ class AdapterCRUD
 
         Console.WriteLine("\n========= LINQ ANALYTICS =========");
 
-        // ===========================
-        // 3️⃣ HIGH SALARY FILTER + ORDER
-        // ===========================
+       
 
         Console.WriteLine("\n--- High Salary Employees (>50000) Sorted ---");
 
@@ -241,7 +239,7 @@ class AdapterCRUD
 
 
 
-        // 2️⃣ Only Names (Projection)
+        
         Console.WriteLine("\n--- Only Employee Names ---");
 
         var names = rows.Select(r => r.Field<string>("FullName"));
@@ -250,9 +248,7 @@ class AdapterCRUD
             Console.WriteLine(name);
 
 
-        // ===========================
-        // 2️⃣ GROUPING + SORTING
-        // ===========================
+       
 
         Console.WriteLine("\n--- Grouped By Department (Sorted Inside Group) ---");
 
@@ -272,17 +268,14 @@ class AdapterCRUD
             }
         }
 
-        // 4️⃣ Average Salary (Aggregation)
+     
         Console.WriteLine("\n--- Average Salary ---");
 
         var avgSalary = rows.Average(r => r.Field<decimal>("Salary"));
 
         Console.WriteLine($"Average Salary: {avgSalary}");
 
-        // ===========================
-        // 1️⃣ ORDERING (Global Sort)
-        // ===========================
-
+     
         Console.WriteLine("\n--- Employees Ordered By Salary, Then Name ---");
 
         var orderedEmployees = rows
